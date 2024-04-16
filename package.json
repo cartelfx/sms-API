@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "nexmo": "^2.9.1"
+  }
+}
